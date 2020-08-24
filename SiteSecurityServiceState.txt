@@ -1,0 +1,4 @@
+services.addons.mozilla.org:HSTS	0	18251	1608464693249,1,0,2
+versioncheck-bg.addons.mozilla.org:HSTS	0	18251	1576928995191,1,0,2
+versioncheck-bg.addons.mozilla.org:HPKP	0	18251	1582112695193,1,1,WoiWRyIOVNa9ihaBciRSC7XHjliYS9VwUGOIud4PB18=r/mIkG3eEpVdm+u/ko/cwxzOMo1bk4TyHIlByibiA5E=
+shavar.services.mozilla.com^firstPartyDomain=safebrowsing.86868755-6b82-4842-b301-72671a0db32e.mozilla:HSTS	0	18495	1629526394045,1,1,2
